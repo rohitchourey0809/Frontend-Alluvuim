@@ -77,13 +77,13 @@ const ChatRoom = () => {
   console.log("messages", messages);
 
   return (
-    <Box w="100%" p="4">
+    <Box w="100%" p="4" >
       <Heading as="h2" size="lg" mb="4">
         Chat Room: {room}
       </Heading>
       <Box
         border="1px"
-        borderColor="gray.200"
+        borderColor="gray.800"
         p="4"
         mb="4"
         h={{ base: "300px", md: "400px" }}

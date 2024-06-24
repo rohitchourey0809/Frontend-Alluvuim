@@ -77,8 +77,14 @@ const ChatRoom = () => {
   console.log("messages", messages);
 
   return (
-    <Box w="100%" p="4" >
-      <Heading as="h2" size="lg" mb="4">
+    <Box w="100%" p="4" backgroundColor="gray.900">
+      <Heading
+        as="h2"
+        size="lg"
+        mb="4"
+        textColor="white"
+        backgroundColor="gray.900"
+      >
         Chat Room: {room}
       </Heading>
       <Box
@@ -121,7 +127,7 @@ const ChatRoom = () => {
                   maxW="80%"
                 >
                   <Text>{msg.text}</Text>
-                  <Text fontSize="xs">{msg.user.username  || msg.user }</Text>
+                  <Text fontSize="xs">{msg.user.username || msg.user}</Text>
                 </Box>
               </HStack>
             </MotionBox>

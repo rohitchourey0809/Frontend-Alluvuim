@@ -1,71 +1,55 @@
-# Getting Started with Create React App
+# Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/rohitchourey0809/alluviumiotsolutionspvtltd/assets/97465195/269e2e7c-89d4-421a-8e00-8827d182e718)
 
-## Available Scripts
+![image](https://github.com/rohitchourey0809/alluviumiotsolutionspvtltd/assets/97465195/43e231af-5a3c-47fa-b641-7e1f54ac28ac)
 
-In the project directory, you can run:
+![image](https://github.com/rohitchourey0809/alluviumiotsolutionspvtltd/assets/97465195/217e40bd-6233-496b-bd6d-ac72ac1125f9)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Demo Video
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+[Click to see video](https://go.screenpal.com/watch/cZ1TiaV8XVo)
 
-### `npm test`
+https://go.screenpal.com/watch/cZ1TiaV8XVo
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Chat Application Frontend
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This is the frontend of the chat application, built with React and Chakra UI. It allows users to register, login, and chat in real-time with other users in different chat rooms.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Features
 
-### `npm run eject`
+- User registration and login
+- Real-time chat functionality
+- Display of usernames with messages
+- JWT-based authentication
+- Responsive UI with Chakra UI
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Technologies Used
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- React
+- Chakra UI
+- Socket.io-client
+- Axios for API requests
+- React Router for navigation
+- React Toastify for notifications
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Getting Started
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Prerequisites
 
-## Learn More
+- Node.js
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Installation
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  Clone the repository:
 
-### Code Splitting
+   ```
+   git clone https://github.com/rohitchourey0809/Frontend-Alluvuim
+   
+   ```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+   
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Frontend-Alluvuim
